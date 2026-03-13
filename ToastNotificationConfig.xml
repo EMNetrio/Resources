@@ -54,7 +54,7 @@
 <Text Name="AttributionText">www.netrio.com</Text>
 <Text Name="HeaderText">IT Department Notification</Text>
 <Text Name="TitleText">System Maintenance Reminder</Text>
-<Text Name="BodyText1">REMINDER: Your daily maintenance window occurs between 18:00 - 08:00AM local time</Text>
+<Text Name="BodyText1">REMINDER: Your daily maintenance window occurs between 18:00 - 08:00 AM local time</Text>
 <Text Name="BodyText2">In preparation, please ensure all work is saved ahead of the maintenance window. During the maintenance window you may be prompted for a reboot, please complete it to ensure your device remains secure and healthy</Text>
 <Text Name="SnoozeText">Click snooze to be reminded again in:</Text>
 <Text Name="GreetMorningText">Good morning</Text>
