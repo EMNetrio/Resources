@@ -15,9 +15,9 @@
 <!--  Adds an additional group to the toast with text about the uptime of the computer  -->
 <Option Name="CustomNotificationApp" Enabled="True" Value="Netrio LLC"/>
 <!--  The app in Windows doing the actual notification. When enabled, uses custom app. When disabled, automatically defaults to PowerShell app for reliable notification delivery  -->
-<Option Name="LogoImageName" Value="https://github.com/EMNetrio/Resources/blob/main/Netrio_Favicon.jpg"/>
+<Option Name="LogoImageName" Value="https://raw.githubusercontent.com/EMNetrio/Resources/main/Netrio_Favicon.jpg"/>
 <!--  File name of the image shown as logo in the toast notoification   -->
-<Option Name="HeroImageName" Value="https://github.com/EMNetrio/Resources/blob/main/White%20Logo.png"/>
+<Option Name="HeroImageName" Value="https://raw.githubusercontent.com/EMNetrio/Resources/main/White%20Logo.png"/>
 <!--  File name of the image shown in the top of the toast notification  -->
 <Option Name="ActionButton1" Enabled="False"/>
 <!--  Enables or disables the action button.  -->
